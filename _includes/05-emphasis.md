@@ -1,1 +1,16 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ 
+# Lists
+
+Below is a _list_ of **food**:
+
+# Junk Food
+- popcorn
+- chips
+- tacos
+
+# Fruit
+- watermelon
+- apples
+- oranges
+
+
